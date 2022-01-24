@@ -68,3 +68,10 @@ de configurar las credenciales de acceso a la base de datos de su entorno local.
   
 ![alt text](./data.png)
 ![alt text](./records.png)
+ Variables a agregar en el archivo .env:
+~~~
+MYSQL_PASSWORD=example
+MYSQL_USER=root
+MYSQL_HOST=localhost
+MYSQL_DATABASE=pragma
+~~~
