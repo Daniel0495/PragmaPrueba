@@ -1,0 +1,450 @@
+16:11:36,636 root INFO Creando tabla en la base de datos
+16:11:36,637 root INFO Creando la base de datos
+16:19:16,783 root INFO Creando tabla en la base de datos
+16:19:16,784 root INFO Creando la base de datos
+16:21:59,67 root INFO Creando tabla en la base de datos
+16:21:59,68 root INFO Creando la base de datos
+16:23:21,974 root INFO Creando tabla en la base de datos
+16:23:21,976 root INFO Creando la base de datos
+16:26:38,608 root INFO Creando tabla en la base de datos
+16:26:38,610 root INFO Creando la base de datos
+16:29:48,536 root INFO Creando tabla en la base de datos
+16:29:48,538 root INFO Creando la base de datos
+16:37:26,659 root INFO Creando tabla en la base de datos
+16:37:26,660 root INFO Creando la base de datos
+11:39:18,732 root INFO Borrando tablas antiguas de la base de datos
+11:39:18,906 root INFO Creando tabla en la base de datos
+11:39:18,907 root INFO Creando la base de datos
+11:39:19,174 root INFO Leyendo archivos csv en el directorio actual...
+11:39:19,174 root INFO Leyendo archivos coincidentes con 2012*.csv en ./
+11:39:19,176 root INFO Cargando archivo 2012-1.csv en DB
+11:39:19,176 root INFO Procesando archivo 2012-1.csv
+11:39:19,202 root INFO Insertando en DB: date: 2012-01-10, price: 50, user_id: 9
+11:39:19,476 root INFO Insertando en DB: date: 2012-01-11, price: 87, user_id: 10
+11:39:19,738 root INFO Insertando en DB: date: 2012-01-12, price: 64, user_id: 7
+11:39:19,998 root INFO Insertando en DB: date: 2012-01-13, price: 20, user_id: 10
+11:39:20,263 root INFO Insertando en DB: date: 2012-01-14, price: 14, user_id: 10
+11:39:20,528 root INFO Insertando en DB: date: 2012-01-15, price: 95, user_id: 8
+11:39:20,780 root INFO Insertando en DB: date: 2012-01-16, price: 95, user_id: 2
+11:39:21,42 root INFO Insertando en DB: date: 2012-01-17, price: 62, user_id: 4
+11:39:21,294 root INFO Insertando en DB: date: 2012-01-18, price: 46, user_id: 8
+11:39:21,549 root INFO Insertando en DB: date: 2012-01-19, price: 97, user_id: 2
+11:39:21,811 root INFO Insertando en DB: date: 2012-01-20, price: 31, user_id: 1
+11:39:22,29 root INFO El archivo 2012-1.csv tiene el campo price vacio en la linea 11
+11:39:22,77 root INFO Insertando en DB: date: 2012-01-21, price: None, user_id: 2
+11:39:22,327 root INFO Insertando en DB: date: 2012-01-22, price: 37, user_id: 1
+11:39:22,580 root INFO Insertando en DB: date: 2012-01-23, price: 74, user_id: 7
+11:39:22,842 root INFO Insertando en DB: date: 2012-01-24, price: 45, user_id: 5
+11:39:23,100 root INFO Insertando en DB: date: 2012-01-25, price: 27, user_id: 5
+11:39:23,357 root INFO Insertando en DB: date: 2012-01-26, price: 78, user_id: 4
+11:39:23,623 root INFO Insertando en DB: date: 2012-01-27, price: 42, user_id: 6
+11:39:23,886 root INFO Insertando en DB: date: 2012-01-28, price: 45, user_id: 8
+11:39:24,136 root INFO Insertando en DB: date: 2012-01-29, price: 96, user_id: 9
+11:39:24,361 root INFO El archivo 2012-1.csv tiene el campo price vacio en la linea 20
+11:39:24,401 root INFO Insertando en DB: date: 2012-01-30, price: None, user_id: 2
+11:39:24,646 root INFO Insertando en DB: date: 2012-01-31, price: 88, user_id: 1
+11:39:24,902 root INFO Insertando en DB registro del archivo: 2012-1.csv
+11:39:24,938 root INFO Cargando archivo 2012-2.csv en DB
+11:39:24,939 root INFO Procesando archivo 2012-2.csv
+11:39:24,977 root INFO Insertando en DB: date: 2012-02-01, price: 76, user_id: 1
+11:39:25,240 root INFO Insertando en DB: date: 2012-02-02, price: 66, user_id: 1
+11:39:25,505 root INFO Insertando en DB: date: 2012-02-03, price: 47, user_id: 10
+11:39:25,767 root INFO Insertando en DB: date: 2012-02-04, price: 100, user_id: 5
+11:39:26,33 root INFO Insertando en DB: date: 2012-02-05, price: 19, user_id: 4
+11:39:26,296 root INFO Insertando en DB: date: 2012-02-06, price: 59, user_id: 8
+11:39:26,561 root INFO Insertando en DB: date: 2012-02-07, price: 77, user_id: 3
+11:39:26,811 root INFO Insertando en DB: date: 2012-02-08, price: 100, user_id: 8
+11:39:27,77 root INFO Insertando en DB: date: 2012-02-09, price: 55, user_id: 1
+11:39:27,354 root INFO Insertando en DB: date: 2012-02-10, price: 19, user_id: 2
+11:39:27,619 root INFO Insertando en DB: date: 2012-02-11, price: 95, user_id: 3
+11:39:27,867 root INFO Insertando en DB: date: 2012-02-12, price: 73, user_id: 2
+11:39:28,122 root INFO Insertando en DB: date: 2012-02-13, price: 32, user_id: 1
+11:39:28,389 root INFO Insertando en DB: date: 2012-02-14, price: 95, user_id: 5
+11:39:28,652 root INFO Insertando en DB: date: 2012-02-15, price: 12, user_id: 8
+11:39:28,914 root INFO Insertando en DB: date: 2012-02-16, price: 37, user_id: 8
+11:39:29,177 root INFO Insertando en DB: date: 2012-02-17, price: 28, user_id: 10
+11:39:29,443 root INFO Insertando en DB: date: 2012-02-18, price: 10, user_id: 5
+11:39:29,699 root INFO Insertando en DB: date: 2012-02-19, price: 27, user_id: 9
+11:39:29,966 root INFO Insertando en DB: date: 2012-02-20, price: 14, user_id: 9
+11:39:30,231 root INFO Insertando en DB: date: 2012-02-21, price: 87, user_id: 5
+11:39:30,495 root INFO Insertando en DB: date: 2012-02-22, price: 75, user_id: 7
+11:39:30,758 root INFO Insertando en DB: date: 2012-02-23, price: 36, user_id: 8
+11:39:31,26 root INFO Insertando en DB: date: 2012-02-24, price: 84, user_id: 8
+11:39:31,292 root INFO Insertando en DB: date: 2012-02-25, price: 62, user_id: 6
+11:39:31,558 root INFO Insertando en DB: date: 2012-02-26, price: 56, user_id: 6
+11:39:31,818 root INFO Insertando en DB: date: 2012-02-27, price: 17, user_id: 4
+11:39:32,61 root INFO Insertando en DB: date: 2012-02-28, price: 64, user_id: 7
+11:39:32,310 root INFO Insertando en DB: date: 2012-02-29, price: 68, user_id: 3
+11:39:32,576 root INFO Insertando en DB registro del archivo: 2012-2.csv
+11:39:32,587 root INFO Cargando archivo 2012-3.csv en DB
+11:39:32,588 root INFO Procesando archivo 2012-3.csv
+11:39:32,628 root INFO Insertando en DB: date: 2012-03-01, price: 75, user_id: 9
+11:39:32,891 root INFO Insertando en DB: date: 2012-03-02, price: 12, user_id: 5
+11:39:33,149 root INFO Insertando en DB: date: 2012-03-03, price: 71, user_id: 4
+11:39:33,399 root INFO Insertando en DB: date: 2012-03-04, price: 73, user_id: 5
+11:39:33,662 root INFO Insertando en DB: date: 2012-03-05, price: 21, user_id: 2
+11:39:33,922 root INFO Insertando en DB: date: 2012-03-06, price: 27, user_id: 7
+11:39:34,190 root INFO Insertando en DB: date: 2012-03-07, price: 81, user_id: 10
+11:39:34,454 root INFO Insertando en DB: date: 2012-03-08, price: 99, user_id: 2
+11:39:34,717 root INFO Insertando en DB: date: 2012-03-09, price: 69, user_id: 2
+11:39:34,982 root INFO Insertando en DB: date: 2012-03-10, price: 19, user_id: 5
+11:39:35,245 root INFO Insertando en DB: date: 2012-03-11, price: 32, user_id: 10
+11:39:35,510 root INFO Insertando en DB: date: 2012-03-12, price: 95, user_id: 7
+11:39:35,775 root INFO Insertando en DB: date: 2012-03-13, price: 71, user_id: 7
+11:39:36,37 root INFO Insertando en DB: date: 2012-03-14, price: 63, user_id: 1
+11:39:36,303 root INFO Insertando en DB: date: 2012-03-15, price: 53, user_id: 8
+11:39:36,566 root INFO Insertando en DB: date: 2012-03-16, price: 87, user_id: 5
+11:39:36,825 root INFO Insertando en DB: date: 2012-03-17, price: 89, user_id: 6
+11:39:37,91 root INFO Insertando en DB: date: 2012-03-18, price: 13, user_id: 3
+11:39:37,351 root INFO Insertando en DB: date: 2012-03-19, price: 74, user_id: 2
+11:39:37,617 root INFO Insertando en DB: date: 2012-03-20, price: 84, user_id: 4
+11:39:37,879 root INFO Insertando en DB: date: 2012-03-21, price: 18, user_id: 8
+11:39:38,144 root INFO Insertando en DB: date: 2012-03-22, price: 32, user_id: 1
+11:39:38,408 root INFO Insertando en DB: date: 2012-03-23, price: 96, user_id: 3
+11:39:38,671 root INFO Insertando en DB: date: 2012-03-24, price: 54, user_id: 7
+11:39:38,934 root INFO Insertando en DB: date: 2012-03-25, price: 82, user_id: 8
+11:39:39,184 root INFO Insertando en DB: date: 2012-03-26, price: 74, user_id: 10
+11:39:39,420 root INFO Insertando en DB: date: 2012-03-27, price: 59, user_id: 6
+11:39:39,674 root INFO Insertando en DB: date: 2012-03-28, price: 33, user_id: 9
+11:39:39,935 root INFO Insertando en DB: date: 2012-03-29, price: 46, user_id: 1
+11:39:40,196 root INFO Insertando en DB: date: 2012-03-30, price: 83, user_id: 4
+11:39:40,448 root INFO Insertando en DB: date: 2012-03-31, price: 65, user_id: 5
+11:39:40,711 root INFO Insertando en DB registro del archivo: 2012-3.csv
+11:39:40,725 root INFO Cargando archivo 2012-4.csv en DB
+11:39:40,726 root INFO Procesando archivo 2012-4.csv
+11:39:40,765 root INFO Insertando en DB: date: 2012-04-01, price: 87, user_id: 2
+11:39:41,26 root INFO Insertando en DB: date: 2012-04-02, price: 43, user_id: 2
+11:39:41,284 root INFO Insertando en DB: date: 2012-04-03, price: 23, user_id: 7
+11:39:41,550 root INFO Insertando en DB: date: 2012-04-04, price: 91, user_id: 9
+11:39:41,786 root INFO Insertando en DB: date: 2012-04-05, price: 81, user_id: 5
+11:39:42,46 root INFO Insertando en DB: date: 2012-04-06, price: 68, user_id: 4
+11:39:42,279 root INFO Insertando en DB: date: 2012-04-07, price: 61, user_id: 3
+11:39:42,529 root INFO Insertando en DB: date: 2012-04-08, price: 13, user_id: 10
+11:39:42,782 root INFO Insertando en DB: date: 2012-04-09, price: 12, user_id: 3
+11:39:43,26 root INFO Insertando en DB: date: 2012-04-10, price: 61, user_id: 7
+11:39:43,276 root INFO Insertando en DB: date: 2012-04-11, price: 63, user_id: 9
+11:39:43,528 root INFO Insertando en DB: date: 2012-04-12, price: 88, user_id: 2
+11:39:43,777 root INFO Insertando en DB: date: 2012-04-13, price: 63, user_id: 9
+11:39:44,30 root INFO Insertando en DB: date: 2012-04-14, price: 50, user_id: 3
+11:39:44,289 root INFO Insertando en DB: date: 2012-04-15, price: 97, user_id: 4
+11:39:44,538 root INFO Insertando en DB: date: 2012-04-16, price: 90, user_id: 4
+11:39:44,762 root INFO El archivo 2012-4.csv tiene el campo price vacio en la linea 98
+11:39:44,788 root INFO Insertando en DB: date: 2012-04-17, price: None, user_id: 10
+11:39:45,62 root INFO Insertando en DB: date: 2012-04-18, price: 79, user_id: 8
+11:39:45,320 root INFO Insertando en DB: date: 2012-04-19, price: 10, user_id: 9
+11:39:45,559 root INFO Insertando en DB: date: 2012-04-20, price: 21, user_id: 10
+11:39:45,800 root INFO Insertando en DB: date: 2012-04-21, price: 68, user_id: 9
+11:39:46,48 root INFO Insertando en DB: date: 2012-04-22, price: 77, user_id: 9
+11:39:46,379 root INFO Insertando en DB: date: 2012-04-23, price: 19, user_id: 5
+11:39:46,631 root INFO Insertando en DB: date: 2012-04-24, price: 82, user_id: 10
+11:39:46,897 root INFO Insertando en DB: date: 2012-04-25, price: 43, user_id: 1
+11:39:47,164 root INFO Insertando en DB: date: 2012-04-26, price: 55, user_id: 2
+11:39:47,386 root INFO El archivo 2012-4.csv tiene el campo price vacio en la linea 108
+11:39:47,432 root INFO Insertando en DB: date: 2012-04-27, price: None, user_id: 3
+11:39:47,685 root INFO Insertando en DB: date: 2012-04-28, price: 53, user_id: 5
+11:39:47,941 root INFO Insertando en DB: date: 2012-04-29, price: 33, user_id: 9
+11:39:48,202 root INFO Insertando en DB: date: 2012-04-30, price: 76, user_id: 10
+11:39:48,463 root INFO Insertando en DB registro del archivo: 2012-4.csv
+11:39:48,474 root INFO Cargando archivo 2012-5.csv en DB
+11:39:48,474 root INFO Procesando archivo 2012-5.csv
+11:39:48,514 root INFO Insertando en DB: date: 2012-05-01, price: 82, user_id: 7
+11:39:48,774 root INFO Insertando en DB: date: 2012-05-02, price: 61, user_id: 1
+11:39:49,29 root INFO Insertando en DB: date: 2012-05-03, price: 19, user_id: 3
+11:39:49,290 root INFO Insertando en DB: date: 2012-05-04, price: 94, user_id: 3
+11:39:49,561 root INFO Insertando en DB: date: 2012-05-05, price: 17, user_id: 5
+11:39:49,819 root INFO Insertando en DB: date: 2012-05-06, price: 19, user_id: 3
+11:39:50,79 root INFO Insertando en DB: date: 2012-05-07, price: 66, user_id: 6
+11:39:50,342 root INFO Insertando en DB: date: 2012-05-08, price: 13, user_id: 7
+11:39:50,606 root INFO Insertando en DB: date: 2012-05-09, price: 31, user_id: 6
+11:39:50,869 root INFO Insertando en DB: date: 2012-05-10, price: 95, user_id: 6
+11:39:51,127 root INFO Insertando en DB: date: 2012-05-11, price: 77, user_id: 7
+11:39:51,377 root INFO Insertando en DB: date: 2012-05-12, price: 16, user_id: 4
+11:39:51,648 root INFO Insertando en DB: date: 2012-05-13, price: 22, user_id: 8
+11:39:51,903 root INFO Insertando en DB: date: 2012-05-14, price: 91, user_id: 4
+11:39:52,169 root INFO Insertando en DB: date: 2012-05-15, price: 44, user_id: 2
+11:39:52,426 root INFO Insertando en DB: date: 2012-05-16, price: 84, user_id: 9
+11:39:52,672 root INFO Insertando en DB: date: 2012-05-17, price: 64, user_id: 3
+11:39:52,928 root INFO Insertando en DB: date: 2012-05-18, price: 83, user_id: 7
+11:39:53,183 root INFO Insertando en DB: date: 2012-05-19, price: 30, user_id: 7
+11:39:53,439 root INFO Insertando en DB: date: 2012-05-20, price: 62, user_id: 8
+11:39:53,690 root INFO Insertando en DB: date: 2012-05-21, price: 89, user_id: 9
+11:39:53,940 root INFO Insertando en DB: date: 2012-05-22, price: 88, user_id: 1
+11:39:54,185 root INFO Insertando en DB: date: 2012-05-23, price: 34, user_id: 10
+11:39:54,439 root INFO Insertando en DB: date: 2012-05-24, price: 100, user_id: 2
+11:39:54,700 root INFO Insertando en DB: date: 2012-05-25, price: 77, user_id: 9
+11:39:54,950 root INFO Insertando en DB: date: 2012-05-26, price: 91, user_id: 3
+11:39:55,215 root INFO Insertando en DB: date: 2012-05-27, price: 61, user_id: 2
+11:39:55,492 root INFO Insertando en DB: date: 2012-05-28, price: 67, user_id: 8
+11:39:55,757 root INFO Insertando en DB: date: 2012-05-29, price: 39, user_id: 10
+11:39:55,997 root INFO Insertando en DB: date: 2012-05-30, price: 57, user_id: 8
+11:39:56,250 root INFO Insertando en DB: date: 2012-05-31, price: 33, user_id: 6
+11:39:56,516 root INFO Insertando en DB registro del archivo: 2012-5.csv
+11:39:56,567 root INFO Consultando resultados en base de datos
+11:39:56,588 root INFO Leyendo archivo de validacion
+11:39:56,589 root INFO Leyendo archivos coincidentes con validation.csv en ./
+11:39:56,590 root INFO Cargando archivo validation.csv en DB
+11:39:56,591 root INFO Procesando archivo validation.csv
+11:39:56,633 root INFO Insertando en DB: date: 2012-06-01, price: 26, user_id: 10
+11:39:56,883 root INFO Insertando en DB: date: 2012-06-02, price: 11, user_id: 8
+11:39:57,129 root INFO Insertando en DB: date: 2012-06-03, price: 13, user_id: 9
+11:39:57,382 root INFO Insertando en DB: date: 2012-06-04, price: 92, user_id: 7
+11:39:57,632 root INFO Insertando en DB: date: 2012-06-05, price: 31, user_id: 10
+11:39:57,901 root INFO Insertando en DB: date: 2012-06-06, price: 62, user_id: 3
+11:39:58,163 root INFO Insertando en DB: date: 2012-06-07, price: 13, user_id: 4
+11:39:58,427 root INFO Insertando en DB: date: 2012-06-08, price: 86, user_id: 7
+11:39:58,693 root INFO Insertando en DB registro del archivo: validation.csv
+11:39:58,747 root INFO Consultando resultados en base de datos
+11:43:34,876 root INFO Borrando tablas antiguas de la base de datos
+11:43:35,89 root INFO Creando tabla en la base de datos
+11:43:35,90 root INFO Creando la base de datos
+11:43:35,344 root INFO Leyendo archivos csv en el directorio actual...
+11:43:35,344 root INFO Leyendo archivos coincidentes con 2012*.csv en ./
+11:43:35,347 root INFO Cargando archivo 2012-1.csv en DB
+11:43:35,347 root INFO Procesando archivo 2012-1.csv
+11:43:35,379 root INFO Insertando en DB: date: 2012-01-10, price: 50, user_id: 9
+11:43:35,636 root INFO Insertando en DB: date: 2012-01-11, price: 87, user_id: 10
+11:43:35,885 root INFO Insertando en DB: date: 2012-01-12, price: 64, user_id: 7
+11:43:36,136 root INFO Insertando en DB: date: 2012-01-13, price: 20, user_id: 10
+11:43:36,398 root INFO Insertando en DB: date: 2012-01-14, price: 14, user_id: 10
+11:43:36,653 root INFO Insertando en DB: date: 2012-01-15, price: 95, user_id: 8
+11:43:36,913 root INFO Insertando en DB: date: 2012-01-16, price: 95, user_id: 2
+11:43:37,178 root INFO Insertando en DB: date: 2012-01-17, price: 62, user_id: 4
+11:43:37,443 root INFO Insertando en DB: date: 2012-01-18, price: 46, user_id: 8
+11:43:37,703 root INFO Insertando en DB: date: 2012-01-19, price: 97, user_id: 2
+11:43:37,956 root INFO Insertando en DB: date: 2012-01-20, price: 31, user_id: 1
+11:43:38,167 root INFO El archivo 2012-1.csv tiene el campo price vacio en la linea 11
+11:43:38,207 root INFO Insertando en DB: date: 2012-01-21, price: None, user_id: 2
+11:43:38,471 root INFO Insertando en DB: date: 2012-01-22, price: 37, user_id: 1
+11:43:38,738 root INFO Insertando en DB: date: 2012-01-23, price: 74, user_id: 7
+11:43:38,988 root INFO Insertando en DB: date: 2012-01-24, price: 45, user_id: 5
+11:43:39,322 root INFO Insertando en DB: date: 2012-01-25, price: 27, user_id: 5
+11:43:39,603 root INFO Insertando en DB: date: 2012-01-26, price: 78, user_id: 4
+11:43:39,854 root INFO Insertando en DB: date: 2012-01-27, price: 42, user_id: 6
+11:43:40,116 root INFO Insertando en DB: date: 2012-01-28, price: 45, user_id: 8
+11:43:40,380 root INFO Insertando en DB: date: 2012-01-29, price: 96, user_id: 9
+11:43:40,603 root INFO El archivo 2012-1.csv tiene el campo price vacio en la linea 20
+11:43:40,646 root INFO Insertando en DB: date: 2012-01-30, price: None, user_id: 2
+11:43:40,910 root INFO Insertando en DB: date: 2012-01-31, price: 88, user_id: 1
+11:43:41,174 root INFO Insertando en DB registro del archivo: 2012-1.csv
+11:43:41,211 root INFO Cargando archivo 2012-2.csv en DB
+11:43:41,212 root INFO Procesando archivo 2012-2.csv
+11:43:41,251 root INFO Insertando en DB: date: 2012-02-01, price: 76, user_id: 1
+11:43:41,499 root INFO Insertando en DB: date: 2012-02-02, price: 66, user_id: 1
+11:43:41,751 root INFO Insertando en DB: date: 2012-02-03, price: 47, user_id: 10
+11:43:42,14 root INFO Insertando en DB: date: 2012-02-04, price: 100, user_id: 5
+11:43:42,277 root INFO Insertando en DB: date: 2012-02-05, price: 19, user_id: 4
+11:43:42,545 root INFO Insertando en DB: date: 2012-02-06, price: 59, user_id: 8
+11:43:42,790 root INFO Insertando en DB: date: 2012-02-07, price: 77, user_id: 3
+11:43:43,52 root INFO Insertando en DB: date: 2012-02-08, price: 100, user_id: 8
+11:43:43,309 root INFO Insertando en DB: date: 2012-02-09, price: 55, user_id: 1
+11:43:43,575 root INFO Insertando en DB: date: 2012-02-10, price: 19, user_id: 2
+11:43:43,838 root INFO Insertando en DB: date: 2012-02-11, price: 95, user_id: 3
+11:43:44,99 root INFO Insertando en DB: date: 2012-02-12, price: 73, user_id: 2
+11:43:44,368 root INFO Insertando en DB: date: 2012-02-13, price: 32, user_id: 1
+11:43:44,628 root INFO Insertando en DB: date: 2012-02-14, price: 95, user_id: 5
+11:43:44,892 root INFO Insertando en DB: date: 2012-02-15, price: 12, user_id: 8
+11:43:45,144 root INFO Insertando en DB: date: 2012-02-16, price: 37, user_id: 8
+11:43:45,408 root INFO Insertando en DB: date: 2012-02-17, price: 28, user_id: 10
+11:43:45,672 root INFO Insertando en DB: date: 2012-02-18, price: 10, user_id: 5
+11:43:45,937 root INFO Insertando en DB: date: 2012-02-19, price: 27, user_id: 9
+11:43:46,197 root INFO Insertando en DB: date: 2012-02-20, price: 14, user_id: 9
+11:43:46,462 root INFO Insertando en DB: date: 2012-02-21, price: 87, user_id: 5
+11:43:46,724 root INFO Insertando en DB: date: 2012-02-22, price: 75, user_id: 7
+11:43:46,987 root INFO Insertando en DB: date: 2012-02-23, price: 36, user_id: 8
+11:43:47,250 root INFO Insertando en DB: date: 2012-02-24, price: 84, user_id: 8
+11:43:47,511 root INFO Insertando en DB: date: 2012-02-25, price: 62, user_id: 6
+11:43:47,776 root INFO Insertando en DB: date: 2012-02-26, price: 56, user_id: 6
+11:43:48,39 root INFO Insertando en DB: date: 2012-02-27, price: 17, user_id: 4
+11:43:48,303 root INFO Insertando en DB: date: 2012-02-28, price: 64, user_id: 7
+11:43:48,567 root INFO Insertando en DB: date: 2012-02-29, price: 68, user_id: 3
+11:43:48,831 root INFO Insertando en DB registro del archivo: 2012-2.csv
+11:43:48,841 root INFO Cargando archivo 2012-3.csv en DB
+11:43:48,842 root INFO Procesando archivo 2012-3.csv
+11:43:48,882 root INFO Insertando en DB: date: 2012-03-01, price: 75, user_id: 9
+11:43:49,126 root INFO Insertando en DB: date: 2012-03-02, price: 12, user_id: 5
+11:43:49,367 root INFO Insertando en DB: date: 2012-03-03, price: 71, user_id: 4
+11:43:49,609 root INFO Insertando en DB: date: 2012-03-04, price: 73, user_id: 5
+11:43:49,863 root INFO Insertando en DB: date: 2012-03-05, price: 21, user_id: 2
+11:43:50,138 root INFO Insertando en DB: date: 2012-03-06, price: 27, user_id: 7
+11:44:01,920 root INFO Borrando tablas antiguas de la base de datos
+11:44:02,3 root INFO Creando tabla en la base de datos
+11:44:02,3 root INFO Creando la base de datos
+11:44:02,192 root INFO Leyendo archivos csv en el directorio actual...
+11:44:02,192 root INFO Leyendo archivos coincidentes con 2012*.csv en ./
+11:44:02,194 root INFO Cargando archivo 2012-1.csv en DB
+11:44:02,195 root INFO Procesando archivo 2012-1.csv
+11:44:02,227 root INFO Insertando en DB: date: 2012-01-10, price: 50, user_id: 9
+11:44:02,480 root INFO Insertando en DB: date: 2012-01-11, price: 87, user_id: 10
+11:44:02,743 root INFO Insertando en DB: date: 2012-01-12, price: 64, user_id: 7
+11:44:02,995 root INFO Insertando en DB: date: 2012-01-13, price: 20, user_id: 10
+11:44:03,253 root INFO Insertando en DB: date: 2012-01-14, price: 14, user_id: 10
+11:44:03,493 root INFO Insertando en DB: date: 2012-01-15, price: 95, user_id: 8
+11:44:03,748 root INFO Insertando en DB: date: 2012-01-16, price: 95, user_id: 2
+11:44:03,999 root INFO Insertando en DB: date: 2012-01-17, price: 62, user_id: 4
+11:44:04,250 root INFO Insertando en DB: date: 2012-01-18, price: 46, user_id: 8
+11:44:04,503 root INFO Insertando en DB: date: 2012-01-19, price: 97, user_id: 2
+11:44:04,750 root INFO Insertando en DB: date: 2012-01-20, price: 31, user_id: 1
+11:44:04,965 root INFO El archivo 2012-1.csv tiene el campo price vacio en la linea 11
+11:44:05,4 root INFO Insertando en DB: date: 2012-01-21, price: None, user_id: 2
+11:44:05,256 root INFO Insertando en DB: date: 2012-01-22, price: 37, user_id: 1
+11:44:05,519 root INFO Insertando en DB: date: 2012-01-23, price: 74, user_id: 7
+11:44:05,784 root INFO Insertando en DB: date: 2012-01-24, price: 45, user_id: 5
+11:44:06,48 root INFO Insertando en DB: date: 2012-01-25, price: 27, user_id: 5
+11:44:06,300 root INFO Insertando en DB: date: 2012-01-26, price: 78, user_id: 4
+11:44:06,559 root INFO Insertando en DB: date: 2012-01-27, price: 42, user_id: 6
+11:44:06,820 root INFO Insertando en DB: date: 2012-01-28, price: 45, user_id: 8
+11:44:07,70 root INFO Insertando en DB: date: 2012-01-29, price: 96, user_id: 9
+11:44:07,282 root INFO El archivo 2012-1.csv tiene el campo price vacio en la linea 20
+11:44:07,327 root INFO Insertando en DB: date: 2012-01-30, price: None, user_id: 2
+11:44:07,586 root INFO Insertando en DB: date: 2012-01-31, price: 88, user_id: 1
+11:44:07,854 root INFO Insertando en DB registro del archivo: 2012-1.csv
+11:44:07,883 root INFO Cargando archivo 2012-2.csv en DB
+11:44:07,884 root INFO Procesando archivo 2012-2.csv
+11:44:07,922 root INFO Insertando en DB: date: 2012-02-01, price: 76, user_id: 1
+11:44:08,174 root INFO Insertando en DB: date: 2012-02-02, price: 66, user_id: 1
+11:44:08,439 root INFO Insertando en DB: date: 2012-02-03, price: 47, user_id: 10
+11:44:08,686 root INFO Insertando en DB: date: 2012-02-04, price: 100, user_id: 5
+11:44:08,939 root INFO Insertando en DB: date: 2012-02-05, price: 19, user_id: 4
+11:44:09,206 root INFO Insertando en DB: date: 2012-02-06, price: 59, user_id: 8
+11:44:09,467 root INFO Insertando en DB: date: 2012-02-07, price: 77, user_id: 3
+11:44:09,728 root INFO Insertando en DB: date: 2012-02-08, price: 100, user_id: 8
+11:44:09,993 root INFO Insertando en DB: date: 2012-02-09, price: 55, user_id: 1
+11:44:10,256 root INFO Insertando en DB: date: 2012-02-10, price: 19, user_id: 2
+11:44:10,519 root INFO Insertando en DB: date: 2012-02-11, price: 95, user_id: 3
+11:44:10,777 root INFO Insertando en DB: date: 2012-02-12, price: 73, user_id: 2
+11:44:11,36 root INFO Insertando en DB: date: 2012-02-13, price: 32, user_id: 1
+11:44:11,286 root INFO Insertando en DB: date: 2012-02-14, price: 95, user_id: 5
+11:44:11,551 root INFO Insertando en DB: date: 2012-02-15, price: 12, user_id: 8
+11:44:11,810 root INFO Insertando en DB: date: 2012-02-16, price: 37, user_id: 8
+11:44:12,60 root INFO Insertando en DB: date: 2012-02-17, price: 28, user_id: 10
+11:44:12,327 root INFO Insertando en DB: date: 2012-02-18, price: 10, user_id: 5
+11:44:12,585 root INFO Insertando en DB: date: 2012-02-19, price: 27, user_id: 9
+11:44:12,837 root INFO Insertando en DB: date: 2012-02-20, price: 14, user_id: 9
+11:44:13,95 root INFO Insertando en DB: date: 2012-02-21, price: 87, user_id: 5
+11:44:13,349 root INFO Insertando en DB: date: 2012-02-22, price: 75, user_id: 7
+11:44:13,588 root INFO Insertando en DB: date: 2012-02-23, price: 36, user_id: 8
+11:44:13,847 root INFO Insertando en DB: date: 2012-02-24, price: 84, user_id: 8
+11:44:14,91 root INFO Insertando en DB: date: 2012-02-25, price: 62, user_id: 6
+11:44:14,343 root INFO Insertando en DB: date: 2012-02-26, price: 56, user_id: 6
+11:44:14,593 root INFO Insertando en DB: date: 2012-02-27, price: 17, user_id: 4
+11:44:14,845 root INFO Insertando en DB: date: 2012-02-28, price: 64, user_id: 7
+11:44:15,111 root INFO Insertando en DB: date: 2012-02-29, price: 68, user_id: 3
+11:44:15,378 root INFO Insertando en DB registro del archivo: 2012-2.csv
+11:44:15,388 root INFO Cargando archivo 2012-3.csv en DB
+11:44:15,388 root INFO Procesando archivo 2012-3.csv
+11:44:15,424 root INFO Insertando en DB: date: 2012-03-01, price: 75, user_id: 9
+11:44:15,683 root INFO Insertando en DB: date: 2012-03-02, price: 12, user_id: 5
+11:44:15,933 root INFO Insertando en DB: date: 2012-03-03, price: 71, user_id: 4
+11:44:16,195 root INFO Insertando en DB: date: 2012-03-04, price: 73, user_id: 5
+11:44:16,459 root INFO Insertando en DB: date: 2012-03-05, price: 21, user_id: 2
+11:44:16,723 root INFO Insertando en DB: date: 2012-03-06, price: 27, user_id: 7
+11:44:16,971 root INFO Insertando en DB: date: 2012-03-07, price: 81, user_id: 10
+11:44:17,236 root INFO Insertando en DB: date: 2012-03-08, price: 99, user_id: 2
+11:44:17,494 root INFO Insertando en DB: date: 2012-03-09, price: 69, user_id: 2
+11:44:17,754 root INFO Insertando en DB: date: 2012-03-10, price: 19, user_id: 5
+11:44:18,28 root INFO Insertando en DB: date: 2012-03-11, price: 32, user_id: 10
+11:44:18,279 root INFO Insertando en DB: date: 2012-03-12, price: 95, user_id: 7
+11:44:18,531 root INFO Insertando en DB: date: 2012-03-13, price: 71, user_id: 7
+11:44:18,795 root INFO Insertando en DB: date: 2012-03-14, price: 63, user_id: 1
+11:44:19,59 root INFO Insertando en DB: date: 2012-03-15, price: 53, user_id: 8
+11:44:19,320 root INFO Insertando en DB: date: 2012-03-16, price: 87, user_id: 5
+11:44:19,572 root INFO Insertando en DB: date: 2012-03-17, price: 89, user_id: 6
+11:44:19,838 root INFO Insertando en DB: date: 2012-03-18, price: 13, user_id: 3
+11:44:20,98 root INFO Insertando en DB: date: 2012-03-19, price: 74, user_id: 2
+11:44:20,364 root INFO Insertando en DB: date: 2012-03-20, price: 84, user_id: 4
+11:44:20,626 root INFO Insertando en DB: date: 2012-03-21, price: 18, user_id: 8
+11:44:20,891 root INFO Insertando en DB: date: 2012-03-22, price: 32, user_id: 1
+11:44:21,140 root INFO Insertando en DB: date: 2012-03-23, price: 96, user_id: 3
+11:44:21,391 root INFO Insertando en DB: date: 2012-03-24, price: 54, user_id: 7
+11:44:21,661 root INFO Insertando en DB: date: 2012-03-25, price: 82, user_id: 8
+11:44:21,919 root INFO Insertando en DB: date: 2012-03-26, price: 74, user_id: 10
+11:44:22,182 root INFO Insertando en DB: date: 2012-03-27, price: 59, user_id: 6
+11:44:22,447 root INFO Insertando en DB: date: 2012-03-28, price: 33, user_id: 9
+11:44:22,723 root INFO Insertando en DB: date: 2012-03-29, price: 46, user_id: 1
+11:44:22,979 root INFO Insertando en DB: date: 2012-03-30, price: 83, user_id: 4
+11:44:23,225 root INFO Insertando en DB: date: 2012-03-31, price: 65, user_id: 5
+11:44:23,460 root INFO Insertando en DB registro del archivo: 2012-3.csv
+11:44:23,466 root INFO Cargando archivo 2012-4.csv en DB
+11:44:23,467 root INFO Procesando archivo 2012-4.csv
+11:44:23,488 root INFO Insertando en DB: date: 2012-04-01, price: 87, user_id: 2
+11:44:23,737 root INFO Insertando en DB: date: 2012-04-02, price: 43, user_id: 2
+11:44:23,989 root INFO Insertando en DB: date: 2012-04-03, price: 23, user_id: 7
+11:44:24,252 root INFO Insertando en DB: date: 2012-04-04, price: 91, user_id: 9
+11:44:24,517 root INFO Insertando en DB: date: 2012-04-05, price: 81, user_id: 5
+11:44:24,766 root INFO Insertando en DB: date: 2012-04-06, price: 68, user_id: 4
+11:44:25,32 root INFO Insertando en DB: date: 2012-04-07, price: 61, user_id: 3
+11:44:25,298 root INFO Insertando en DB: date: 2012-04-08, price: 13, user_id: 10
+11:44:25,557 root INFO Insertando en DB: date: 2012-04-09, price: 12, user_id: 3
+11:44:25,810 root INFO Insertando en DB: date: 2012-04-10, price: 61, user_id: 7
+11:44:26,71 root INFO Insertando en DB: date: 2012-04-11, price: 63, user_id: 9
+11:44:26,322 root INFO Insertando en DB: date: 2012-04-12, price: 88, user_id: 2
+11:44:26,573 root INFO Insertando en DB: date: 2012-04-13, price: 63, user_id: 9
+11:44:26,823 root INFO Insertando en DB: date: 2012-04-14, price: 50, user_id: 3
+11:44:27,78 root INFO Insertando en DB: date: 2012-04-15, price: 97, user_id: 4
+11:44:27,343 root INFO Insertando en DB: date: 2012-04-16, price: 90, user_id: 4
+11:44:27,566 root INFO El archivo 2012-4.csv tiene el campo price vacio en la linea 98
+11:44:27,604 root INFO Insertando en DB: date: 2012-04-17, price: None, user_id: 10
+11:44:27,861 root INFO Insertando en DB: date: 2012-04-18, price: 79, user_id: 8
+11:44:28,120 root INFO Insertando en DB: date: 2012-04-19, price: 10, user_id: 9
+11:44:28,346 root INFO Insertando en DB: date: 2012-04-20, price: 21, user_id: 10
+11:44:28,609 root INFO Insertando en DB: date: 2012-04-21, price: 68, user_id: 9
+11:44:28,872 root INFO Insertando en DB: date: 2012-04-22, price: 77, user_id: 9
+11:44:29,137 root INFO Insertando en DB: date: 2012-04-23, price: 19, user_id: 5
+11:44:29,400 root INFO Insertando en DB: date: 2012-04-24, price: 82, user_id: 10
+11:44:29,640 root INFO Insertando en DB: date: 2012-04-25, price: 43, user_id: 1
+11:44:29,895 root INFO Insertando en DB: date: 2012-04-26, price: 55, user_id: 2
+11:44:30,119 root INFO El archivo 2012-4.csv tiene el campo price vacio en la linea 108
+11:44:30,163 root INFO Insertando en DB: date: 2012-04-27, price: None, user_id: 3
+11:44:30,420 root INFO Insertando en DB: date: 2012-04-28, price: 53, user_id: 5
+11:44:30,683 root INFO Insertando en DB: date: 2012-04-29, price: 33, user_id: 9
+11:44:30,933 root INFO Insertando en DB: date: 2012-04-30, price: 76, user_id: 10
+11:44:31,185 root INFO Insertando en DB registro del archivo: 2012-4.csv
+11:44:31,197 root INFO Cargando archivo 2012-5.csv en DB
+11:44:31,198 root INFO Procesando archivo 2012-5.csv
+11:44:31,242 root INFO Insertando en DB: date: 2012-05-01, price: 82, user_id: 7
+11:44:31,499 root INFO Insertando en DB: date: 2012-05-02, price: 61, user_id: 1
+11:44:31,763 root INFO Insertando en DB: date: 2012-05-03, price: 19, user_id: 3
+11:44:32,23 root INFO Insertando en DB: date: 2012-05-04, price: 94, user_id: 3
+11:44:32,288 root INFO Insertando en DB: date: 2012-05-05, price: 17, user_id: 5
+11:44:32,551 root INFO Insertando en DB: date: 2012-05-06, price: 19, user_id: 3
+11:44:32,802 root INFO Insertando en DB: date: 2012-05-07, price: 66, user_id: 6
+11:44:33,42 root INFO Insertando en DB: date: 2012-05-08, price: 13, user_id: 7
+11:44:33,291 root INFO Insertando en DB: date: 2012-05-09, price: 31, user_id: 6
+11:44:33,538 root INFO Insertando en DB: date: 2012-05-10, price: 95, user_id: 6
+11:44:33,787 root INFO Insertando en DB: date: 2012-05-11, price: 77, user_id: 7
+11:44:34,35 root INFO Insertando en DB: date: 2012-05-12, price: 16, user_id: 4
+11:44:34,299 root INFO Insertando en DB: date: 2012-05-13, price: 22, user_id: 8
+11:44:34,550 root INFO Insertando en DB: date: 2012-05-14, price: 91, user_id: 4
+11:44:34,801 root INFO Insertando en DB: date: 2012-05-15, price: 44, user_id: 2
+11:44:35,63 root INFO Insertando en DB: date: 2012-05-16, price: 84, user_id: 9
+11:44:35,313 root INFO Insertando en DB: date: 2012-05-17, price: 64, user_id: 3
+11:44:35,575 root INFO Insertando en DB: date: 2012-05-18, price: 83, user_id: 7
+11:44:35,838 root INFO Insertando en DB: date: 2012-05-19, price: 30, user_id: 7
+11:44:36,104 root INFO Insertando en DB: date: 2012-05-20, price: 62, user_id: 8
+11:44:36,371 root INFO Insertando en DB: date: 2012-05-21, price: 89, user_id: 9
+11:44:36,631 root INFO Insertando en DB: date: 2012-05-22, price: 88, user_id: 1
+11:44:36,881 root INFO Insertando en DB: date: 2012-05-23, price: 34, user_id: 10
+11:44:37,130 root INFO Insertando en DB: date: 2012-05-24, price: 100, user_id: 2
+11:44:37,396 root INFO Insertando en DB: date: 2012-05-25, price: 77, user_id: 9
+11:44:37,659 root INFO Insertando en DB: date: 2012-05-26, price: 91, user_id: 3
+11:44:37,923 root INFO Insertando en DB: date: 2012-05-27, price: 61, user_id: 2
+11:44:38,189 root INFO Insertando en DB: date: 2012-05-28, price: 67, user_id: 8
+11:44:38,451 root INFO Insertando en DB: date: 2012-05-29, price: 39, user_id: 10
+11:44:38,717 root INFO Insertando en DB: date: 2012-05-30, price: 57, user_id: 8
+11:44:38,956 root INFO Insertando en DB: date: 2012-05-31, price: 33, user_id: 6
+11:44:39,214 root INFO Insertando en DB registro del archivo: 2012-5.csv
+11:44:39,275 root INFO Consultando resultados en base de datos
+11:44:39,288 root INFO Leyendo archivo de validacion
+11:44:39,289 root INFO Leyendo archivos coincidentes con validation.csv en ./
+11:44:39,290 root INFO Cargando archivo validation.csv en DB
+11:44:39,291 root INFO Procesando archivo validation.csv
+11:44:39,341 root INFO Insertando en DB: date: 2012-06-01, price: 26, user_id: 10
+11:44:39,601 root INFO Insertando en DB: date: 2012-06-02, price: 11, user_id: 8
+11:44:39,858 root INFO Insertando en DB: date: 2012-06-03, price: 13, user_id: 9
+11:44:40,118 root INFO Insertando en DB: date: 2012-06-04, price: 92, user_id: 7
+11:44:40,380 root INFO Insertando en DB: date: 2012-06-05, price: 31, user_id: 10
+11:44:40,637 root INFO Insertando en DB: date: 2012-06-06, price: 62, user_id: 3
+11:44:40,903 root INFO Insertando en DB: date: 2012-06-07, price: 13, user_id: 4
+11:44:41,138 root INFO Insertando en DB: date: 2012-06-08, price: 86, user_id: 7
+11:44:41,387 root INFO Insertando en DB registro del archivo: validation.csv
+11:44:41,423 root INFO Consultando resultados en base de datos
