@@ -63,4 +63,8 @@ otro fin, más que permitir ver al usuario la actualización de las "estadístic
  
 - Antes de ejecutar el script **main.py**, por favor modifique los valores en el archivo _**.env**_, con el fin 
 de configurar las credenciales de acceso a la base de datos de su entorno local. *MYSQL_DATABASE* se refiere al nombre
-  de la base de datos que se creará para guardar los registros. Dentro de ella se crean las tablas *data* y *records*.
+  de la base de datos que se creará para guardar los registros. Dentro de ella se crean las tablas *data* y *records*. Los
+  esquemas de dichas tablas son los siguientes
+  
+![alt text](./data.png)
+![alt text](./records.png)
