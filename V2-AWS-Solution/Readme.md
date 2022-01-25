@@ -1,9 +1,10 @@
-# Solución basada en servicios de AWS.
+# Ejercicio de exploración de un solución basada en servicios de AWS.
 ___
 
-La presente solución hace uso de los recursos Buckets de S3, 
-funciones Lambda, Crawlers de AWS Glue y *VISUALIZACIÓN* para generar un 
-pipeline que satisfaga los requerimientos solicitados.
+Esta parte, es el resultado de una exploración de los servicios de aws en busca de una solución para el problema planteado. 
+Esta hace uso de los recursos Buckets de S3, funciones Lambda y Crawlers de AWS Glue para generar un 
+pipeline que satisfaga los requerimientos solicitados. Sin embargo, solo aborda la parte de carga y limpieza de los datos, así
+como la generación de "estadísticas" de la información.
 
 
 ![alt text](./flujov1.png)
